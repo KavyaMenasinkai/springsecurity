@@ -1,0 +1,1 @@
+A living example of how to use Spring Security and JSF. A playground for interested OSS developers.
